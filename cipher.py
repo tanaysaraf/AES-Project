@@ -258,7 +258,7 @@ class App:
   def __init__(self, master):
     global passg
     title = "Image Encryption"
-    author = "Made by Aditya"
+    author = "Made by Tanay"
     msgtitle = Message(master, text =title)
     msgtitle.config(font=('helvetica', 17, 'bold'), width=200)
     msgauthor = Message(master, text=author)
